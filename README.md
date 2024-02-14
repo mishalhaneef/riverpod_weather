@@ -12,7 +12,7 @@ This Flutter app utilizes the Riverpod state management library to create a weat
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your/repository.git](https://github.com/mishalhaneef/riverpod_weather.git
+   gh repo clone mishalhaneef/riverpod_weather
    ```
 
 2. Navigate to the project directory.
