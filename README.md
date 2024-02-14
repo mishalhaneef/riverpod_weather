@@ -43,5 +43,3 @@ This Flutter app utilizes the Riverpod state management library to create a weat
 
 ## Acknowledgments
 - Thanks to [Weather API](https://www.weatherapi.com/) for providing real-time weather data.
-
-Feel free to customize this README to fit your project specifics. Happy coding! 😄
